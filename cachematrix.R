@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## In this script `makeCacheMatrix` creates a list of functions that are
+## In this script `makeCacheMatrix` creates a list of functions that
 ## 1 - set a new matrix
 ## 2 - get the matrix that is set
 ## 3 - set the inverse of the matrix
